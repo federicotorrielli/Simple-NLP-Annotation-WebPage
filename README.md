@@ -15,8 +15,8 @@ is built using the following technologies:
 To get started, clone the repository, make sure you have _yarn_ and install the dependencies:
 
 ```bash
-git clone git@github.com:federicotorrielli/BasicOrAdvanced.git
-cd BasicOrAdvanced
+git clone git@github.com:federicotorrielli/Simple-NLP-Annotation-WebPage.git
+cd Simple-NLP-Annotation-WebPage
 yarn install
 ```
 
