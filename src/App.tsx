@@ -217,7 +217,7 @@ function App() {
                     :
                     !videoWatched ?
                         <div className="flex flex-col items-center justify-center h-screen w-screen">
-                            <Video url={"https://www.evilscript.eu/files/spiegazione-dicaro.mp4"}/>
+                            <Video url={"https://federicotorrielli.me/files/spiegazione-dicaro.mp4"}/>
                             <button
                                 className="mt-6 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110 shadow-lg"
                                 onClick={() => setVideoWatched(!videoWatched)}
